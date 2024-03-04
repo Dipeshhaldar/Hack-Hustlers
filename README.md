@@ -76,6 +76,4 @@ Open your web browser and navigate to `http://127.0.0.1:8000/` (or `http://local
 ### Step 8: Access the Admin Panel (Optional)
 If you created a superuser account in Step 5, you can access the Django admin panel by navigating to `http://127.0.0.1:8000/admin/` and logging in with the superuser credentials.
 
-That's it! You've successfully run your Django project locally. You can now start exploring and interacting with your Django application.
 
-Note: Make sure to consult the project's specific documentation or README file for any project-specific instructions or configuration details.
